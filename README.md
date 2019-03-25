@@ -4,7 +4,7 @@ This application implements following data structures: table (vector), list, two
 * C++
 ## Launch
 1. Go to main directory of application ad create directory called 'build'.
-2. Go to build directory.
+2. Go to 'build' directory.
 3. Run:
 ```
 cmake ..
